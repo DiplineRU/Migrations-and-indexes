@@ -1,11 +1,11 @@
 package com.example.Migrations_and_indexes;
 
-import com.example.Database_Schema_Management.controller.StudentController;
-import com.example.Database_Schema_Management.model.Student;
-import com.example.Database_Schema_Management.repository.FacultyRepository;
-import com.example.Database_Schema_Management.repository.StudentRepository;
-import com.example.Database_Schema_Management.service.FacultService;
-import com.example.Database_Schema_Management.service.StudentService;
+import com.example.Migrations_and_indexes.controller.StudentController;
+import com.example.Migrations_and_indexes.model.Student;
+import com.example.Migrations_and_indexes.repository.FacultyRepository;
+import com.example.Migrations_and_indexes.repository.StudentRepository;
+import com.example.Migrations_and_indexes.service.FacultService;
+import com.example.Migrations_and_indexes.service.StudentService;
 import org.json.JSONObject;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

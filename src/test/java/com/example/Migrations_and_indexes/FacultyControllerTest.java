@@ -1,7 +1,7 @@
 package com.example.Migrations_and_indexes;
 
-import com.example.Database_Schema_Management.controller.FacultyController;
-import com.example.Database_Schema_Management.model.Faculty;
+import com.example.Migrations_and_indexes.controller.FacultyController;
+import com.example.Migrations_and_indexes.model.Faculty;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
